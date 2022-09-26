@@ -1,5 +1,5 @@
-- Sup! I’m Gustavo 😎
-I’m currently learning the front-end stack
+- Sup! I’m Gustavo 😎<br>
+I’m currently learning the front-end stack<br>
 In the long run I want to become a fullstack developer 😎
 
 - Reach me in <a href="https://www.linkedin.com/in/poncianogustavo/" target="_blank">LinkedIn</a> or write an <a href="mailto:96.gustavop@gmail.com">e-mail</a> 📧
